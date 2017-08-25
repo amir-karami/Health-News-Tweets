@@ -7,6 +7,4 @@ Karami, Amir, et al. "Fuzzy Approach Topic Discovery in Health and Medical Corpo
 
 File Format:
 
-Due to Twitter's terms of service, we can only release the tweet ids.
-
-Each line of the data is the ID of the tweet. The original tweets can be obtained by applying the search API using queries according to the ID of the tweet.
+Each line is a tweet. 
