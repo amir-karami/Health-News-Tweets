@@ -1,5 +1,5 @@
 # Health-News-Tweets
-These health news tweets were extracted from the health Twitter accounts including cbchealth, everydayhealth, foxnewshealth, goodhealth, kaiserhealthnews, latimeshealth, msnhealthnews, NBChealth, nprhealth, usnewshealth, bbchealth, cnnhealth, gdnhealthcare, nytimeshealth,reuters_health and wsjhealth from August 2011 to December 2014.
+These health news tweets were extracted from the health Twitter accounts including cbchealth, everydayhealth, foxnewshealth, goodhealth, kaiserhealthnews, latimeshealth, msnhealthnews, NBChealth, nprhealth, usnewshealth, bbchealth, cnnhealth, gdnhealthcare, nytimeshealth,reuters_health and wsjhealth in 2015. Health-News-Tweets.txt contains all the news in one file. 
 
  You are welcome to use the dataset under the terms of the licence for research or commercial purposes. Please acknowledge its use with a citation:
 
